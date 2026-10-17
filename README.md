@@ -1,3 +1,8 @@
+
+## Live Website
+
+[Open Placement Readiness Explorer](https://placement-readiness-data-explorer-ly9ewq7jwrf9dwpif2ds9q.streamlit.app/)
+
 # Placement Readiness Data Explorer
 
 An explainable, beginner-friendly Python data analysis project and interactive Streamlit web application to evaluate student placement readiness across technical, problem-solving, and communication dimensions.
